@@ -1,4 +1,4 @@
-package br.com.meli.truitapp.DTO;
+package br.com.meli.truitapp.Model.DTO;
 
 import lombok.Builder;
 import lombok.Data;

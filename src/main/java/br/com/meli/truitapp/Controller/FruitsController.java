@@ -1,6 +1,6 @@
 package br.com.meli.truitapp.Controller;
 
-import br.com.meli.truitapp.DTO.FruitsDto;
+import br.com.meli.truitapp.Model.DTO.FruitsDto;
 import br.com.meli.truitapp.Service.FruitsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

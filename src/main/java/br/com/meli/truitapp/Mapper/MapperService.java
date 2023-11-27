@@ -1,11 +1,7 @@
 package br.com.meli.truitapp.Mapper;
 
-import br.com.meli.truitapp.DTO.FruitsDto;
+import br.com.meli.truitapp.Model.DTO.FruitsDto;
 import br.com.meli.truitapp.Model.Fruits;
-
-import java.util.List;
-import java.util.Set;
-import java.util.stream.Collectors;
 
 public class MapperService {
 
