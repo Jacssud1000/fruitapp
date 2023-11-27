@@ -10,4 +10,6 @@ public class TruitappApplication {
         SpringApplication.run(TruitappApplication.class, args);
     }
 
+
+
 }
